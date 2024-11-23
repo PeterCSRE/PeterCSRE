@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeterCSRE
-- 👀 I’m interested in OpenShift, RHEL and Ruby.
-- 🌱 I’m currently learning how to run LLMs in the cloud for image generation and editing. 
+- 👀 I’m interested in OpenShift, RHEL, GoLang and ARM machines.
+- 🌱 I’m currently learning GoLang.
 
 
 <!---
